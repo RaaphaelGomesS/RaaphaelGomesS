@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/RaaphaelGomesS">
-  <img width="48%" height="180rem" src="https://github-readme-stats.vercel.app/api?username=RaaphaelGomesS&theme=react&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img width="48%" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaaphaelGomesS&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RaaphaelGomesS&theme=react&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaaphaelGomesS&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
 <div align="center"><br>
