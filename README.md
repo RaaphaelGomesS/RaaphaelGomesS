@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Raphael Gomes Prazeres and i live in Brazil<br><br>- 🔭 I’m working as Intern in QA for Btg pactual<br>- 📚 I'm currently learning Java, Spring Boot and Docker<br>- ⚡ In my free time I like play some games, study philosophy, make calisthenics, read and watch movies/series.</p>
+<p align="left">My name is Raphael, i'm brazilian and have 21 y.<br><br>- 🔭 I’m working as Intern in QA for Btg pactual<br>- 📚 I'm currently learning Java, Spring Boot and Docker<br>- ⚡ In my free time I like play some games, study philosophy, make calisthenics, read and watch movies/series.</p>
 
 ###
 
