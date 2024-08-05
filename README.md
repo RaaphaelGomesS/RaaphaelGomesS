@@ -19,7 +19,7 @@
 
 <img align="right" height="250" src="https://camo.githubusercontent.com/aafed7a0b38a1433e125d92e5bb7f39d7101ea67344e8280bee42da286f7be3c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861335578656d55314f47786d6547466c597a5272626d5a7865545a345a326333625864746133703063474e736332356b626e70685a535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7777673173755569546243593848387649412f67697068792d646f776e73697a65642d6c617267652e676966"  />
 
-<img align="right" height="250" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=raphaelg15&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=raphaelg15&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false"/>
+<img align="right" height="250" src="https://spotify-github-profile.kittinanx.com/api/view?uid=raphaelg15&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)(https://spotify-github-profile.kittinanx.com/api/view?uid=raphaelg15&redirect=true)"/>
 
 <h3 align="left">🛠 Language and tools</h3>
 
