@@ -1,15 +1,3 @@
-<h2 align="left">Hi 👋!</h2>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">My name is Raphael, i'm brazilian and have 22 y.<br><br>- 🔭 I’m working as Intern in Btg pactual<br>- 📚 I'm currently learning Spring and DevOps<br>- ⚡ In my free time I like play some games, study philosophy, make calisthenics, run, read and watch movies/series.</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaaphaelGomesS&show_icons=true&theme=dark#gh-dark-mode-only" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaaphaelGomesS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
