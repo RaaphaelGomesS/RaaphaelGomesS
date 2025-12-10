@@ -1,27 +1,39 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+# 🧐 Raphael Gomes
+**`Desenvolvedor back-end Java`**
+
+Sou movido pela vontade de aprender e expandir minha percepção da realidade. Na programação sinto tanto o prazer por ver novos horizontes, como também me encanto pelo processo de resolver problemas e prover soluções. 
+Aqui estão presentes todos os projetos que decide fazer para conseguir resolver alguma necessidade que possuia ou qualquer súbito vontade que se alinhasse aos meus interesses particulares.
 
 ##
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=RaaphaelGomesS&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaaphaelGomesS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img height="150" src="https://spotify-github-profile.kittinanx.com/api/view?uid=raphaelg15&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)(https://spotify-github-profile.kittinanx.com/api/view?uid=raphaelg15&redirect=true)"/>
+### 🛠 Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
+
+##
+<div align="center">
+  <div align="center">
+    <a href="https://open.spotify.com/user/raphaelg15">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=raphaelg15&count=3" alt="Spotify recently played"  />
+    </a>
+  </div>
+  
+  <img height="150" src="src/images/codingTheMatrix.gif"/>
+</div>
+
