@@ -1,14 +1,16 @@
 # 🧐 Raphael Gomes
 **`Desenvolvedor back-end Java`**
 
-Sou movido pela vontade de aprender e expandir minha percepção da realidade. Na programação sinto tanto o prazer por ver novos horizontes, como também me encanto pelo processo de resolver problemas e prover soluções. 
+Sou movido pela vontade de aprender e expandir minha percepção da realidade. Na programação sinto tanto o prazer por enxergar novos horizontes, como também me encanto pelo processo de resolver problemas e prover soluções.  
+
+
 Aqui estão presentes todos os projetos que decide fazer para conseguir resolver alguma necessidade que possuia ou qualquer súbito vontade que se alinhasse aos meus interesses particulares.
 
 ##
 
 ### 🛠 Tech stack
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
@@ -28,12 +30,9 @@ Aqui estão presentes todos os projetos que decide fazer para conseguir resolver
 
 ##
 <div align="center">
-  <div align="center">
-    <a href="https://open.spotify.com/user/raphaelg15">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=raphaelg15&count=3" alt="Spotify recently played"  />
-    </a>
-  </div>
-  
-  <img height="150" src="src/images/codingTheMatrix.gif"/>
+  <img height="180" src="./codingTheMatrix.gif" alt="Coding GIF" />
+  &nbsp; <a href="https://open.spotify.com/user/raphaelg15">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=raphaelg15&count=3" height="180" alt="Spotify recently played" />
+  </a>
 </div>
 
